@@ -1,0 +1,33 @@
+h1{
+    font-size: 22px;
+}
+div{
+    height: 400px;
+    width: 200px;
+    margin: 80px;
+    padding: 5%;
+    background-color: blue;
+    box-shadow: 0px 0px 8px black;
+    border: 2px solid;
+}
+.inNum{
+    height: 10px;
+    width: 25px;
+    border: 3px solid;
+}
+
+button{
+    border: 2px solid;
+    background-color: gray;
+}
+
+input{
+    height: 10px;
+    width: 160px;
+    border: 3px solid
+
+   
+}
+
+;
+
